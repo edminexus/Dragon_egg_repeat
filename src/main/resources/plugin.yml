@@ -1,0 +1,10 @@
+name: DragonEggRepeat
+version: 1.3
+main: me.edminexus.dragonegg.DragonEggRepeat
+api-version: 1.21
+author: Edminexus
+
+commands:
+  dragoneggrepeat:
+    description: Dragon Egg Repeat commands
+    usage: /dragoneggrepeat <info|stats|secret>
